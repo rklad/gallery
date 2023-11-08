@@ -19,3 +19,15 @@
     --bs-btn-disabled-bg: #284B63;
     --bs-btn-disabled-border-color: #284B63;
 }
+
+nav {
+    background-color:#153243;
+}
+
+body {
+    background-color:#F4F9E9;
+}
+
+footer {
+    background-color:#F4F9E9;
+}
