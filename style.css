@@ -31,3 +31,11 @@ body {
 footer {
     background-color:#F4F9E9;
 }
+
+div.description {
+    background-color: #B7918C;
+}
+
+:root, [data-bs-theme=light] {
+    --bs-body-bg: #251101;
+}
