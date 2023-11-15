@@ -39,3 +39,8 @@ div.description {
 :root, [data-bs-theme=light] {
     --bs-body-bg: #251101;
 }
+
+.dropdown-item:focus, .dropdown-item:hover {
+    color: var(--bs-dropdown-link-hover-color);
+    background-color:#0c0600;
+}
