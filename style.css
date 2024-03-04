@@ -66,3 +66,11 @@ div.description {
     background-color: rgb(3, 83, 136);
     border: 5px white solid
 }
+
+.spot {
+    background-color: #1DB954;
+}
+
+.spotify {
+    border:5px black solid;
+}
